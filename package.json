@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lewissaunders/SDVJavaScript/issues"
   },
-  "homepage": "https://github.com/lewissaunders/SDVJavaScript#readme"
+  "homepage": "https://github.com/lewissaunders/SDVJavaScript#readme",
+  "dependencies": {
+    "markdown": "^0.5.0"
+  }
 }
