@@ -1,6 +1,6 @@
 # SDVJavaScript
 Lab week 2
-## Yes
+## Heading 2
 
     // some code
     npm install
