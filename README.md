@@ -1,2 +1,2 @@
 # SDVJavaScript
-Lab week 2
+## Week Two
